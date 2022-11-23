@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.Home {
+
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    padding: 60px 0;
+    width: 100%;
+    margin: auto;
+    
+     
+}
